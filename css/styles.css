@@ -1,0 +1,17 @@
+h1, h2{
+    color: red;
+}
+p{
+    color: darkcyan;
+    font-size: 1.1rem;
+}
+#lorem{
+    background: darksalmon;
+}
+.one{
+    color: blue;
+}
+.two{
+    color: papayawhip;
+    background: black;
+}
