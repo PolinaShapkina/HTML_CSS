@@ -1,0 +1,18 @@
+div {
+    width:100px;
+    height:100px;
+    border:solid 1px black;
+    display:inline-block;
+}
+
+.rgb{
+     background-color:rgb(124,220,50); /* to hexa = 7C, DC, 32 */
+}
+
+.hexa{
+    background-color:#7CDC32;
+}
+
+.rgba{
+     background-color:rgba(124,220,50,0.2); /* opacity = 20% */
+}
