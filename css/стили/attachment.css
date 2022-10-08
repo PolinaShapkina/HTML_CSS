@@ -13,21 +13,21 @@ div{
     text-align: center;
 }
 .big1-img{
-    background: url(.././images/big2.jpeg);
+    background: url(.././images/1626446618131620823.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 }
 .small-img{
-    background: url(.././images/big1.jpeg);
+    background: url(.././images/photo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 }
 .big2-img{
-    background: url(.././images/big2.jpeg);
+    background: url(.././images/1626446618131620823.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
