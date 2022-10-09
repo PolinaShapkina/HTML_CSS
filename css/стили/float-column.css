@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    color: rgb(17, 16, 16);
+}
+.one{
+    float: left;
+    background: rgb(255, 0, 234);
+    height: 150px;
+    width: 33.33%;
+}
+.two {
+    float: left;
+    background: rgb(8, 253, 8);
+    height: 150px;
+    width: 33.33%;
+}
+.three {
+    float: left;
+    background: rgb(255, 0, 170);
+    height: 150px;
+    width: 33.33%;
+}
