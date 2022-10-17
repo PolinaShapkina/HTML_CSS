@@ -1,0 +1,21 @@
+h1{
+    text-shadow: 20px -11px 4px rgba(210, 125, 187, 0.79);
+    }
+    .box{
+        width: 200px;
+        height: 200px;
+        background: rgb(224, 141, 32);
+        margin: 20px;
+        transition: all 0.5s linear;
+    }
+    .box:hover{
+    -webkit-box-shadow: 32px 32px 13px 4px rgba(79, 31, 163, 0.91);
+        -moz-box-shadow: 32px 32px 13px 4px rgba(31, 163, 137, 0.91);
+        box-shadow: 32px 32px 13px 4px rgba(163, 31, 88, 0.91);
+    }
+    /* .neon{
+        background-color: #010a01;
+        font-size: 40px;
+        color: #fff;
+        text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 48px #0fa, 0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+    } */
